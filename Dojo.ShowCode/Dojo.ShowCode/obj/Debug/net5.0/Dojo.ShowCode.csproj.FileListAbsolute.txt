@@ -1,0 +1,15 @@
+C:\forooz\TDD\code\dojo-showcode-2021\Dojo.ShowCode\Dojo.ShowCode\bin\Debug\net5.0\Dojo.ShowCode.exe
+C:\forooz\TDD\code\dojo-showcode-2021\Dojo.ShowCode\Dojo.ShowCode\bin\Debug\net5.0\Dojo.ShowCode.deps.json
+C:\forooz\TDD\code\dojo-showcode-2021\Dojo.ShowCode\Dojo.ShowCode\bin\Debug\net5.0\Dojo.ShowCode.runtimeconfig.json
+C:\forooz\TDD\code\dojo-showcode-2021\Dojo.ShowCode\Dojo.ShowCode\bin\Debug\net5.0\Dojo.ShowCode.runtimeconfig.dev.json
+C:\forooz\TDD\code\dojo-showcode-2021\Dojo.ShowCode\Dojo.ShowCode\bin\Debug\net5.0\Dojo.ShowCode.dll
+C:\forooz\TDD\code\dojo-showcode-2021\Dojo.ShowCode\Dojo.ShowCode\bin\Debug\net5.0\ref\Dojo.ShowCode.dll
+C:\forooz\TDD\code\dojo-showcode-2021\Dojo.ShowCode\Dojo.ShowCode\bin\Debug\net5.0\Dojo.ShowCode.pdb
+C:\forooz\TDD\code\dojo-showcode-2021\Dojo.ShowCode\Dojo.ShowCode\obj\Debug\net5.0\Dojo.ShowCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\forooz\TDD\code\dojo-showcode-2021\Dojo.ShowCode\Dojo.ShowCode\obj\Debug\net5.0\Dojo.ShowCode.AssemblyInfoInputs.cache
+C:\forooz\TDD\code\dojo-showcode-2021\Dojo.ShowCode\Dojo.ShowCode\obj\Debug\net5.0\Dojo.ShowCode.AssemblyInfo.cs
+C:\forooz\TDD\code\dojo-showcode-2021\Dojo.ShowCode\Dojo.ShowCode\obj\Debug\net5.0\Dojo.ShowCode.csproj.CoreCompileInputs.cache
+C:\forooz\TDD\code\dojo-showcode-2021\Dojo.ShowCode\Dojo.ShowCode\obj\Debug\net5.0\Dojo.ShowCode.dll
+C:\forooz\TDD\code\dojo-showcode-2021\Dojo.ShowCode\Dojo.ShowCode\obj\Debug\net5.0\ref\Dojo.ShowCode.dll
+C:\forooz\TDD\code\dojo-showcode-2021\Dojo.ShowCode\Dojo.ShowCode\obj\Debug\net5.0\Dojo.ShowCode.pdb
+C:\forooz\TDD\code\dojo-showcode-2021\Dojo.ShowCode\Dojo.ShowCode\obj\Debug\net5.0\Dojo.ShowCode.genruntimeconfig.cache
