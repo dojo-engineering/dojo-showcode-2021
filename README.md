@@ -61,9 +61,9 @@ Click [here](https://github.com/Dojo-Engineering/dojo-showcode-2021/raw/main/Doj
 
 [Margaret Hamilton interview](https://www.theguardian.com/technology/2019/jul/13/margaret-hamilton-computer-scientist-interview-software-apollo-missions-1969-moon-landing-nasa-women) - interesting interview with Maraget Hamilton regarding her work on the Apollo code and being the first female software engineer and managing an all-male team. She also talks about managing being a mother and her career.
 
-[Clean Code Summary](https://gist.github.com/wojteklu/73c6914cc446146b8b533c0988cf8d29) - Really good read/tips on clean code
+[Clean Code Summary](https://gist.github.com/wojteklu/73c6914cc446146b8b533c0988cf8d29) - Really good read/tips on clean code.
 
-KISS Code Example from slides - [A detailed example of the KISS principle in C#](https://www.davidomid.com/a-detailed-example-of-the-kiss-principle-in-csharp)
+[A detailed example of the KISS principle in C#](https://www.davidomid.com/a-detailed-example-of-the-kiss-principle-in-csharp) - KISS Code Example from slides.
 
 ## SOLID Resources
 
