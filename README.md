@@ -14,6 +14,8 @@ A Path to an easier life: TDD with Code Craftsmanship
 
 Click [here](https://github.com/Dojo-Engineering/dojo-showcode-2021/raw/main/Dojo%20Handout.pdf) to download this handout.
 
+Click [here](https://www.youtube.com/watch?v=UqcG5DnHbRY&feature=youtu.be) to watch the webinar.
+
 # **Glossary**
 
 ## General
